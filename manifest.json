@@ -35,6 +35,7 @@
         {
           "deviceName": "Dexcom G4 CGM",
           "driverId": "DexcomG4",
+          "linuxPortPattern": "/dev/ttyACM0",
           "macPortPattern": "/dev/cu\\.(usb|dex).+",
           "mode": "serial",
           "vendorId": 8867,
