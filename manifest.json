@@ -67,7 +67,7 @@
           "bitrate": 19200,
           "mode": "FTDI",
           "vendorId": 6753,
-          "productId": 13344
+          "productId": 13328
         },
         {
           "deviceName": "Insulet OmniPod",
