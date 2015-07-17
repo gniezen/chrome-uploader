@@ -67,6 +67,14 @@
           "bitrate": 19200,
           "mode": "FTDI",
           "vendorId": 6753,
+          "productId": 13344
+        },
+        {
+          "deviceName": "Freedom Lite",
+          "driverId": "AbbottFreeStyleFreedom",
+          "bitrate": 19200,
+          "mode": "FTDI",
+          "vendorId": 6753,
           "productId": 13328
         },
         {
